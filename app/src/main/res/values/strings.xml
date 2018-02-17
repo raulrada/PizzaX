@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pizza X</string>
+
+    <string name="businessName">Pizza X</string>
+    <string name="businessMotto">Best pizza. Anywhere, anytime.</string>
+    <string name="directions">Directions</string>
+    <string name="website">www.pizzax.ro</string>
+    <string name="phone">+40-730-00-00-00</string>
+    <string name="e_mail">order@pizzax.ro</string>
+    <string name="address">3 A.I. Cuza Bvd., Slatina</string>
+
+</resources>

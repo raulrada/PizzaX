@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="noHeight">0dp</dimen>
+    <dimen name="noWidth">0dp</dimen>
+
+    <dimen name="titleTextMStart">20dp</dimen>
+    <dimen name="titleTextMEnd">20dp</dimen>
+    <dimen name="titleTextMTop">10dp</dimen>
+    <dimen name="titleTextMBottom">0dp</dimen>
+    <dimen name="titleTextMediumMBottom">10dp</dimen>
+    <dimen name="titleTextSizeBig">20sp</dimen>
+    <dimen name="titleTextSizeMedium">16sp</dimen>
+
+    <dimen name="titleTextDirectionMTop">-26dp</dimen>
+
+    <dimen name="titleTextDirectionImagePadding">20dp</dimen>
+
+
+    <dimen name="regularTextMStart">25dp</dimen>
+    <dimen name="regularTextMEnd">25dp</dimen>
+    <dimen name="regularTextMTop">10dp</dimen>
+    <dimen name="regularTextMBottom">10dp</dimen>
+    <dimen name="regularTextSize">16sp</dimen>
+    <dimen name="regularTextImagePadding">15dp</dimen>
+
+
+    <dimen name="directionImageWidth">52dp</dimen>
+    <dimen name="directionImageHeight">52dp</dimen>
+
+
+
+</resources>

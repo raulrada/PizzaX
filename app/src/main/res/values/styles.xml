@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="text">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="text.title">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/titleTextMStart</item>
+        <item name="android:layout_marginEnd">@dimen/titleTextMEnd</item>
+        <item name="android:layout_marginTop">@dimen/titleTextMTop</item>
+        <item name="android:layout_marginBottom">@dimen/titleTextMBottom</item>
+    </style>
+
+    <style name="text.title.large">
+        <item name="android:textSize">@dimen/titleTextSizeBig</item>
+    </style>
+
+    <style name="text.title.medium">
+        <item name="android:textSize">@dimen/titleTextSizeMedium</item>
+        <item name="android:layout_marginBottom">@dimen/titleTextMediumMBottom</item>
+    </style>
+
+    <style name="text.title.medium.right">
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:layout_marginTop">@dimen/titleTextDirectionMTop</item>
+        <item name="android:drawablePadding">@dimen/titleTextDirectionImagePadding</item>
+    </style>
+
+    <style name="text.regular">
+        <item name="android:layout_height">@dimen/noHeight</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginStart">@dimen/regularTextMStart</item>
+        <item name="android:layout_marginEnd">@dimen/regularTextMEnd</item>
+        <item name="android:layout_marginTop">@dimen/regularTextMTop</item>
+        <item name="android:layout_marginBottom">@dimen/regularTextMBottom</item>
+        <item name="android:textSize">@dimen/regularTextSize</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawablePadding">@dimen/regularTextImagePadding</item>
+    </style>
+
+
+
+</resources>
