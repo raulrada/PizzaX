@@ -23,17 +23,29 @@
 
     <style name="text.title.large">
         <item name="android:textSize">@dimen/titleTextSizeBig</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
     <style name="text.title.medium">
         <item name="android:textSize">@dimen/titleTextSizeMedium</item>
         <item name="android:layout_marginBottom">@dimen/titleTextMediumMBottom</item>
+        <item name="android:textStyle">italic</item>
     </style>
 
     <style name="text.title.medium.right">
         <item name="android:layout_alignParentEnd">true</item>
-        <item name="android:layout_marginTop">@dimen/titleTextDirectionMTop</item>
-        <item name="android:drawablePadding">@dimen/titleTextDirectionImagePadding</item>
+
+
+    </style>
+
+    <style name="text.title.medium.right.vertical">
+        <item name="android:layout_marginTop">@dimen/titleTextDirectionVerticalMTop</item>
+        <item name="android:drawablePadding">@dimen/titleTextDirectionImagePaddingVertical</item>
+    </style>
+
+    <style name="text.title.medium.right.horizontal">
+        <item name="android:layout_marginTop">@dimen/titleTextDirectionHorizontalMTop</item>
+        <item name="android:drawablePadding">@dimen/titleTextDirectionImagePaddingHorizontal</item>
     </style>
 
     <style name="text.regular">
@@ -47,6 +59,10 @@
         <item name="android:textSize">@dimen/regularTextSize</item>
         <item name="android:gravity">center_vertical</item>
         <item name="android:drawablePadding">@dimen/regularTextImagePadding</item>
+    </style>
+
+    <style name="text.regular.bottom">
+        <item name="android:layout_marginBottom">@dimen/regularTextBottomMBottom</item>
     </style>
 
 

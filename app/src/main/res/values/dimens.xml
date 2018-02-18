@@ -11,21 +11,29 @@
     <dimen name="titleTextSizeBig">20sp</dimen>
     <dimen name="titleTextSizeMedium">16sp</dimen>
 
-    <dimen name="titleTextDirectionMTop">-26dp</dimen>
+    <dimen name="titleTextDirectionVerticalMTop">-26dp</dimen>
+    <dimen name="titleTextDirectionHorizontalMTop">20dp</dimen>
 
-    <dimen name="titleTextDirectionImagePadding">20dp</dimen>
+
+    <dimen name="titleTextDirectionImagePaddingVertical">20dp</dimen>
+    <dimen name="titleTextDirectionImagePaddingHorizontal">20dp</dimen>
 
 
-    <dimen name="regularTextMStart">25dp</dimen>
-    <dimen name="regularTextMEnd">25dp</dimen>
+    <dimen name="regularTextMStart">35dp</dimen>
+    <dimen name="regularTextMEnd">35dp</dimen>
     <dimen name="regularTextMTop">10dp</dimen>
     <dimen name="regularTextMBottom">10dp</dimen>
-    <dimen name="regularTextSize">16sp</dimen>
+    <dimen name="regularTextSize">17sp</dimen>
     <dimen name="regularTextImagePadding">15dp</dimen>
+
+    <dimen name="regularTextBottomMBottom">20dp</dimen>
 
 
     <dimen name="directionImageWidth">52dp</dimen>
     <dimen name="directionImageHeight">52dp</dimen>
+
+    <dimen name="iconsWidth">30dp</dimen>
+    <dimen name="iconsHeight">30dp</dimen>
 
 
 
