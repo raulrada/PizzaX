@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    /**
+     * Submit intent to Google Maps or similar app when user presses the Directions picture / text
+     * @param view
+     */
     public void directions(View view){
         Intent intent = new Intent(Intent.ACTION_VIEW);
         intent.setData(Uri.parse("geo:44.428, 24.366"));
