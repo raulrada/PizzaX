@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza X</string>
+    <string name="businessMotto">Cea mai buna pizza.\nOriunde, oricand.</string>
+    <string name="directions">Indicatii de\norientare</string>
+    <string name="address">B-dul A.I. Cuza nr. 3, Slatina</string>
+</resources>
