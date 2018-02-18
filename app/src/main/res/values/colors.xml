@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#FFEA00</color>
-    <color name="colorPrimaryDark">#FBC02D</color>
-    <color name="colorAccent">#64DD17</color>
+    <color name="colorPrimaryDark">#FDD835</color>
+    <color name="colorAccent">#2E7D32</color>
 
 
     <color name="titleBackground">#FFFF00</color>
@@ -16,6 +16,9 @@
     <color name="iconsColorLight">#FFFFFF</color>
     <color name="iconsColorLightMedium">#E8F5E9</color>
     <color name="iconsColorLigthDarker">#C8E6C9</color>
+
+    <color name="gradientStart">#FFFF00</color>
+    <color name="gradientEnd">#FFF59D</color>
 
 
 </resources>
