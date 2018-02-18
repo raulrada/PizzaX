@@ -10,6 +10,7 @@
 
     <style name="text">
         <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/textColor</item>
     </style>
 
     <style name="text.title">
@@ -19,6 +20,10 @@
         <item name="android:layout_marginEnd">@dimen/titleTextMEnd</item>
         <item name="android:layout_marginTop">@dimen/titleTextMTop</item>
         <item name="android:layout_marginBottom">@dimen/titleTextMBottom</item>
+        <item name="android:shadowColor">@color/textShadowColor</item>
+        <item name="android:shadowDx">@dimen/titleTextShadowDx</item>
+        <item name="android:shadowDy">@dimen/titleTextShadowDy</item>
+        <item name="android:shadowRadius">@dimen/titleTextShadowRadius</item>
     </style>
 
     <style name="text.title.large">

@@ -1,13 +1,13 @@
 <vector android:height="@dimen/iconsHeight" android:viewportHeight="48.0"
     android:viewportWidth="48.0" android:width="@dimen/iconsWidth" xmlns:android="http://schemas.android.com/apk/res/android">
-    <path android:fillColor="#3498DB" android:fillType="evenOdd"
+    <path android:fillColor="@color/iconsColorDark" android:fillType="evenOdd"
         android:pathData="M24,48C37.25,48 48,37.25 48,24C48,10.75 37.25,0 24,0C10.75,0 0,10.75 0,24C0,37.25 10.75,48 24,48Z"
         android:strokeColor="#00000000" android:strokeWidth="1"/>
     <path android:fillAlpha="0.400000006" android:fillColor="#000000"
         android:fillType="evenOdd"
         android:pathData="M0.01,24.79C0.43,37.68 11.01,48 24,48L38.77,33.23L28.79,24.34L22.89,30.02L21.85,28.55L24.32,26.38L10.28,14.52L0.01,24.79Z"
         android:strokeColor="#00000000" android:strokeWidth="1"/>
-    <path android:fillColor="#FFFFFF" android:fillType="evenOdd"
+    <path android:fillColor="@color/iconsColorLight" android:fillType="evenOdd"
         android:pathData="M24,26.77L37.85,14.77L10.15,14.77L24,26.77ZM20.26,25.44L24,28.51L27.68,25.44L37.85,34.15L10.15,34.15L20.26,25.44ZM9.23,33.23L9.23,15.69L19.38,24.46L9.23,33.23ZM38.77,33.23L38.77,15.69L28.62,24.46L38.77,33.23Z"
         android:strokeColor="#00000000" android:strokeWidth="1"/>
 </vector>

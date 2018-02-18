@@ -25,6 +25,7 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@color/titleBackground"
             android:clipChildren="false">
 
             <TextView
@@ -42,7 +43,7 @@
                 style="@style/text.title.medium.right.vertical"
                 android:drawableTop="@drawable/ic_direction"
                 android:gravity="center"
-                android:clickable="true"
+
                 android:onClick="directions"
                 android:text="@string/directions" />
 

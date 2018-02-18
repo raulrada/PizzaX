@@ -5,7 +5,7 @@
         <aapt:attr name="android:fillColor">
             <gradient android:endX="262144.0" android:endY="131072.0"
                 android:startX="0.0019456" android:startY="131072.0" android:type="linear">
-                <item android:color="#FF00AEEE" android:offset="0.0"/>
+                <item android:color="@color/iconsColorMedium" android:offset="0.0"/>
                 <item android:color="#FF0095DA" android:offset="1.0"/>
             </gradient>
         </aapt:attr>
@@ -16,12 +16,12 @@
                 android:endY="131072.2656256"
                 android:startX="21845.3339648"
                 android:startY="131072.2656256" android:type="linear">
-                <item android:color="#FF0095DA" android:offset="0.0"/>
+                <item android:color="@color/iconsColorDark" android:offset="0.0"/>
                 <item android:color="#FF00AEEE" android:offset="1.0"/>
             </gradient>
         </aapt:attr>
     </path>
     <path android:fillAlpha="0.3"
         android:pathData="M343,231.1l32.5,-31.8l-32.5,-31.7l-67.1,0l0,-23.6l-37.6,0l0,23.6l-26.2,0l0,63.5l26.2,0l0,13.4l-53.3,0l-32.5,31.7l32.5,31.7l53.3,0l0,76l37.6,0l0,-76l39.9,0l0,-63.5l-39.9,0l0,-13.4z" android:strokeAlpha="0.3"/>
-    <path android:fillColor="#FFFFFF" android:pathData="M335,223.1l32.5,-31.8l-32.5,-31.7l-67.1,0l0,-23.6l-37.6,0l0,23.6l-26.2,0l0,63.5l26.2,0l0,13.4l-53.3,0l-32.5,31.7l32.5,31.7l53.3,0l0,76l37.6,0l0,-76l39.9,0l0,-63.5l-39.9,0l0,-13.4z"/>
+    <path android:fillColor="@color/iconsColorLight" android:pathData="M335,223.1l32.5,-31.8l-32.5,-31.7l-67.1,0l0,-23.6l-37.6,0l0,23.6l-26.2,0l0,63.5l26.2,0l0,13.4l-53.3,0l-32.5,31.7l32.5,31.7l53.3,0l0,76l37.6,0l0,-76l39.9,0l0,-63.5l-39.9,0l0,-13.4z"/>
 </vector>
